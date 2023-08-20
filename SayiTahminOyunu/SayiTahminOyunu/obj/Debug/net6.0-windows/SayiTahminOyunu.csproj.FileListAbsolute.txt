@@ -1,0 +1,17 @@
+C:\Users\MSI\source\repos\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\net6.0-windows\SayiTahminOyunu.exe
+C:\Users\MSI\source\repos\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\net6.0-windows\SayiTahminOyunu.deps.json
+C:\Users\MSI\source\repos\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\net6.0-windows\SayiTahminOyunu.runtimeconfig.json
+C:\Users\MSI\source\repos\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\net6.0-windows\SayiTahminOyunu.dll
+C:\Users\MSI\source\repos\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\net6.0-windows\SayiTahminOyunu.pdb
+C:\Users\MSI\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\net6.0-windows\SayiTahminOyunu.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\net6.0-windows\SayiTahminOyunu.Form1.resources
+C:\Users\MSI\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\net6.0-windows\SayiTahminOyunu.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\net6.0-windows\SayiTahminOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\net6.0-windows\SayiTahminOyunu.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\net6.0-windows\SayiTahminOyunu.AssemblyInfo.cs
+C:\Users\MSI\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\net6.0-windows\SayiTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\net6.0-windows\SayiTahminOyunu.dll
+C:\Users\MSI\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\net6.0-windows\refint\SayiTahminOyunu.dll
+C:\Users\MSI\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\net6.0-windows\SayiTahminOyunu.pdb
+C:\Users\MSI\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\net6.0-windows\SayiTahminOyunu.genruntimeconfig.cache
+C:\Users\MSI\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\net6.0-windows\ref\SayiTahminOyunu.dll
